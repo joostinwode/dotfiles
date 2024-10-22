@@ -8,8 +8,22 @@ These are my dotfiles
 ## Requirements 
 
 ### Git
+```
+pacman -S git
+apt install git
+```
 
 ### Stow
+```
+pacman -S stow
+apt install stow
+```
+### Application Launcher
+```
+dmenu
+pacman -S dmenu
+apt install dmenu
+```
 
 ### Window Manager
 ```
