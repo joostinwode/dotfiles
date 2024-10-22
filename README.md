@@ -78,7 +78,7 @@ Ctrl+Print lets you screenshot a selected area.
 ### Settings
 
 Swaysettings
-Configures sway using a GUI
+configures sway using a GUI
 
 https://github.com/ErikReider/SwaySettings.git
 
