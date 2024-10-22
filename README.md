@@ -2,28 +2,28 @@
 # Content
 
   Programs:
-    - Sway
-    - Waybar
-    - Mako
-    - Foot
-    - Dmenu
-    - Clipman
-    - Gammastep
-    - Grimshot
-    - Swaysettings
+    * Sway
+    * Waybar
+    * Mako
+    * Foot
+    * Dmenu
+    * Clipman
+    * Gammastep
+    * Grimshot
+    * Swaysettings
 
   Scripts:
-    - Autotiling
+    * Autotiling
 
   Other:
-    - .zshrc
-    - Other packages from apt & flatpak
+    * .zshrc
+    * Other packages from apt & flatpak
 
   Fonts:
-    - NotoSans
-    - JetBrainsMono
-    - FontAwesome Icons
-    - Terminus (optional)
+    * NotoSans
+    * JetBrainsMono
+    * FontAwesome Icons
+    * Terminus (optional)
 
 
 
