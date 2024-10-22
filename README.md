@@ -1,20 +1,20 @@
 
 ## Content
 
- Programs:
+The programs I use:
 * Sway
-* Waybar
-* Mako
-* Foot
-* Dmenu
-* Clipman
-* Gammastep
-* Grimshot
-* Swaysettings
+* Waybar - Status Bar
+* Mako - Wayland notification daemon
+* Foot - Terminal
+* dmenu 
+* Clipman - Clipboard
+* Gammastep - Blue light filter
+* Grimshot - Takes screenshots
+* Swaysettings - Configure Sway using a GUI
 
 
  Scripts:
-* Autotiling
+* Autotiling - automatically tiles new windows
 
 
  Other:
@@ -24,9 +24,9 @@
 
  Fonts:
 * NotoSans
-* JetBrainsMono
-* FontAwesome Icons
-* Terminus (optional)
+* JetBrainsMono - terminal font
+* FontAwesome Icons - for the status bar
+* Terminus (optional) - not used but I really like this font 
 
 
 
