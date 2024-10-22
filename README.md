@@ -1,9 +1,7 @@
 ![2024-10-21T18:51:39,030609303-07:00](https://github.com/user-attachments/assets/d61983f0-e104-4338-8968-e70d1f2a4ae2)
 
 
-# My Dotfiles
-
-These are my dotfiles 
+# My dotfiles 
 
 ## Requirements 
 
