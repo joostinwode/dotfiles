@@ -8,39 +8,41 @@ These are my dotfiles
 
 ### Stow
 
-### Sway
+### Window Manager
 ```
-window manager
+Sway
 pacman -S sway
 apt install sway
 ```
 
-### Clipman
+### Clipboard
 ```
-clipboard
+Clipman
 pacman -S clipman
 apt install clipman
 ```
 
-### Gammastep
+### Blue Light Filter
 ```
-Blue light filter
+Gammastep
 pacman -S gammastep
 apt install gammastep
 ```
 
-### Makoctl
+### Notifications
 ```
-Sends notifications
+Mako
 ```
-### Waybar
+### Status Bar
 ```
-Status bar
+Waybar
+pacman -S waybar
+apt install waybar
 ```
 
-### Grimshot
+### Screenshot
 ```
-Screenshots system
+Grimshot
 
 Print captures the whole system.
 
@@ -49,8 +51,9 @@ Alt+Print captures the active window.
 Ctrl+Print lets you screenshot a selected area.
 ```
 
-### Sway Settings
+### Settings
 ```
+Swaysettings
 Configures sway using a GUI
 ```
 
