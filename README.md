@@ -1,7 +1,7 @@
 
-# Content
+## Content
 
-## Programs:
+ Programs:
 * Sway
 * Waybar
 * Mako
@@ -13,16 +13,16 @@
 * Swaysettings
 
 
-## Scripts:
+ Scripts:
 * Autotiling
 
 
-## Other:
+ Other:
 * .zshrc
 * Other packages from apt & flatpak
 
 
-## Fonts:
+ Fonts:
 * NotoSans
 * JetBrainsMono
 * FontAwesome Icons
